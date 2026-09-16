@@ -10,3 +10,6 @@ I pretty much agree with what John Strand and Karolis Kaciulis talk about in the
 
 Where I think the article gets most useful is the gap between those two views and what actually needs to happen. If a global slowdown isn't realistic and the doomsday talk is partly hype, the practical question is how to hold AI companies accountable for the harms they cause today. A few other experts touch on this, such as Ted Miracco's suggestion that product liability would make safety a built-in feature rather than an afterthought, and Denis Calderone's point that independent evaluators inside the labs are one concrete step that doesn't require countries to agree. 
 
+## Comment by Layan Alyas (layan-al)
+The concept of independent safety reviewers  resonated with me because it offers companies a tangible method of boosting accountability while AI development is in progress. External reviewers might be able to help verify that safety measures work rather than relying on a company’s own claims. I would also like to know if those reviewers could publish problems themselves, even if the company looks bad.
+
